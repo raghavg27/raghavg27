@@ -55,6 +55,7 @@ Welcome to my corner of the coding cosmos! In this universe of endless lines of 
 - **LeetCode:** [leetcode.com/raghavg](https://leetcode.com/raghavg)
 
 ## 🎧 What I am listening 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/tf43p9vpx03iaorucartl31hs)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=tf43p9vpx03iaorucartl31hs)
+<!-- [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/tf43p9vpx03iaorucartl31hs) -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=raghavg27.raghavg27)
