@@ -1,28 +1,57 @@
-## Hi there 👋
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=raghavg27&color=blueviolet)
 
-<h1 align="center">Hi <img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm [Your Name]</h1>
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  Fullstack Developer
-  <a href="https://[your-portfolio-link]">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-  </a>
-</h2>
-<div align="center">
- <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
-</div>
+# Hi there, I'm Raghav Gupta! 👋
 
-<!--
-**raghavg27/raghavg27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a software engineer with experience in web development and a passion for building impactful projects.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages:** JavaScript, Python, Java
+- **Frameworks:** Node.js, React.js, Django
+- **Database:** PostgreSQL, MySQL, MongoDB
+- **API Development:** Express, Flask
+- **Core CS:** Data Structures, Algorithms, Object-Oriented Design
+- **Tools:** Git, GitHub, Postman
+- **OS:** Linux, MacOS, Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Experience
+- **Software Engineer (Customer Success), Yellow.ai**  
+  *Mar 2023 - Jun 2023*  
+  - Managed customer accounts, driving strong relationships and achieving a 20% increase in revenue growth and retention rates.
+  - Spearheaded development of customer-centric features using Node.js, JavaScript, Python, and MongoDB, increasing customer satisfaction by 25%.
+
+- **Associate Software Engineer, Yellow.ai**  
+  *Jan 2022 - Mar 2023*  
+  - Developed high-performing software with Node.js, Python, and MongoDB, reducing system downtime by 15%.
+  - Integrated back-end and front-end systems with conversational channels, increasing sales by 10%.
+
+- **Web Development Intern, Civil Cops**  
+  *Jun 2019*  
+  - Developed web applications using HTML, CSS, and MERN Stack.
+  - Improved page loading times by 25%.
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavg27&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavg27&layout=compact&theme=radical)
+
+## 🎧 Spotify Listening History
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/raghavg27)
+
+## 📚 Projects
+- **[minimaLINK](https://mnmlnk.netlify.app)**  
+  *May 2024*  
+  - URL shortening service using Node.js and PostgreSQL, featuring URL shortening, redirection, and Base62 conversion.
+  - Elegant dark theme frontend with React and Material UI.
+
+- **[GitSeek](https://github-search-app-0204.netlify.app)**  
+  *Dec 2023*  
+  - GitHub User Search App created using MERN stack, enabling real-time search and intuitive user interaction.
+  - Implemented API throttling and debouncing, error handling.
+
+## 📫 Contact
+- **Email:** [raghavg2705@gmail.com](mailto:raghavg2705@gmail.com)
+- **LinkedIn:** [linkedin.com/in/raghavg27/](https://linkedin.com/in/raghavg27/)
+- **GitHub:** [github.com/raghavg27](https://github.com/raghavg27)
+- **LeetCode:** [leetcode.com/raghavg](https://leetcode.com/raghavg)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=raghavg27.raghavg27)
