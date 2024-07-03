@@ -3,7 +3,7 @@
 
 # Hi there, I'm Raghav Gupta! 👋
 
-Welcome to my GitHub profile! I'm a software engineer with experience in web development and a passion for building impactful projects.
+Welcome to my corner of the coding cosmos! In this universe of endless lines of code, I’m here to make my mark.
 
 ## 🚀 Skills
 - **Languages:** JavaScript, Python, Java
@@ -17,13 +17,16 @@ Welcome to my GitHub profile! I'm a software engineer with experience in web dev
 ## 🔭 Experience
 - **Software Engineer (Customer Success), Yellow.ai**  
   *Mar 2023 - Jun 2023*  
-  - Managed customer accounts, driving strong relationships and achieving a 20% increase in revenue growth and retention rates.
-  - Spearheaded development of customer-centric features using Node.js, JavaScript, Python, and MongoDB, increasing customer satisfaction by 25%.
+  - Played customer account maestro, orchestrating a symphony of happy clients and hitting a high note with revenue boost.
+  - Led the charge in creating customer-loving software features with Node.js, JavaScript, Python, and MongoDB.
 
 - **Associate Software Engineer, Yellow.ai**  
   *Jan 2022 - Mar 2023*  
-  - Developed high-performing software with Node.js, Python, and MongoDB, reducing system downtime by 15%.
-  - Integrated back-end and front-end systems with conversational channels, increasing sales by 10%.
+  - Built rock-solid software with Node.js, Python, and MongoDB, slashing system downtime by 15% – less time crying, more time flying!
+  - Bridged the back-end and front-end worlds like a digital architect.
+  - Wove together REST APIs like a master storyteller, making data dance and connectivity groove.
+  - Debugged like a ninja with Jest, Cypress, and JS debugger, cutting downtime!
+  - Ran the Agile race with flair, crossing the finish line with 95% on-time delivery 😎. 
 
 - **Web Development Intern, Civil Cops**  
   *Jun 2019*  
@@ -33,9 +36,6 @@ Welcome to my GitHub profile! I'm a software engineer with experience in web dev
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavg27&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavg27&layout=compact&theme=radical)
-
-## 🎧 Spotify Listening History
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/raghavg27)
 
 ## 📚 Projects
 - **[minimaLINK](https://mnmlnk.netlify.app)**  
@@ -53,5 +53,8 @@ Welcome to my GitHub profile! I'm a software engineer with experience in web dev
 - **LinkedIn:** [linkedin.com/in/raghavg27/](https://linkedin.com/in/raghavg27/)
 - **GitHub:** [github.com/raghavg27](https://github.com/raghavg27)
 - **LeetCode:** [leetcode.com/raghavg](https://leetcode.com/raghavg)
+
+## 🎧 What I am listening 
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/tf43p9vpx03iaorucartl31hs)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=raghavg27.raghavg27)
