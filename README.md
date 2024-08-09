@@ -38,8 +38,8 @@ Welcome to my corner of the coding cosmos! In this universe of endless lines of 
 
 - **Web Development Intern, Civil Cops**  
   *May 2019 - Jun 2019*  
- - Modified legacy Javascript code to ES6 standards, enhancing code readability and maintainability, which resulted in improved performance and developer productivity.
- - Implemented lazy loading for images and components, and enhanced caching strategies, achieving a 25% reduction in page loading times.
+ 	- Modified legacy Javascript code to ES6 standards, enhancing code readability and maintainability, which resulted in improved performance and developer productivity.
+ 	- Implemented lazy loading for images and components, and enhanced caching strategies, achieving a 25% reduction in page loading times.
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavg27&show_icons=true&theme=radical)
@@ -48,13 +48,13 @@ Welcome to my corner of the coding cosmos! In this universe of endless lines of 
 ## 📚 Projects
 - **[minimaLINK](https://mnmlnk.netlify.app)**  
   *May 2024*  
- - URL shortening service using Express.js, PostgreSQL, JWT for authentication, bcrypt for password security, featuring user registration/login, unique URL generation and click tracking.
- - Responsive frontend using React.js and Material UI, with AuthContext for authentication. Implemented custom styled components, clipboard integration, conditional rendering, form validation, and API integration.
+ 	- URL shortening service using Express.js, PostgreSQL, JWT for authentication, bcrypt for password security, featuring user registration/login, unique URL generation and click tracking.
+ 	- Responsive frontend using React.js and Material UI, with AuthContext for authentication. Implemented custom styled components, clipboard integration, conditional rendering, form validation, and API integration.
 
 - **[GitSeek](https://github-search-app-0204.netlify.app)**  
   *Dec 2023*  
- - GitHub User Search App created using MERN stack, enabling real-time search and intuitive user interaction.
- - Implemented API throttling and debouncing, error handling.
+	- GitHub User Search App created using MERN stack, enabling real-time search and intuitive user interaction.
+ 	- Implemented API throttling and debouncing, error handling.
 
 ## 📫 Contact
 - **Email:** [raghavg2705@gmail.com](mailto:raghavg2705@gmail.com)
