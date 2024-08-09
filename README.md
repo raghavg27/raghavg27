@@ -15,23 +15,31 @@ Welcome to my corner of the coding cosmos! In this universe of endless lines of 
 - **OS:** Linux, MacOS, Windows
 
 ## 🔭 Experience
-- **Software Engineer (Customer Success), Yellow.ai**  
-  *Mar 2023 - Jun 2023*  
-  - Played customer account maestro, orchestrating a symphony of happy clients and hitting a high note with revenue boost.
-  - Led the charge in creating customer-loving software features with Node.js, JavaScript, Python, and MongoDB.
+- **Software Engineer, Shway**  
+  *Jun 2023 -  present*  
+	•	Founding member at Shway, where we created a “Tinder for plans” – swipe right to join events around you! Now live on [AppStore](https://apps.apple.com/app/shway/id6499040068) and [PlayStore](https://play.google.com/store/apps/details?id=com.shway.Shway).
+	•	Whipped up RESTful API endpoints for events and users with Django Rest Framework – because CRUD is my jam!
+	•	Integrated Google and Apple Sign-In APIs, making user logins so smooth you’d think they were on ice skates.
+	•	Managed our database with PostgreSQL, ensuring data is stored and retrieved faster than you can say “SQL!”
+	•	Added real-time chat features with Django Channels, turning user interactions into a live party.
 
-- **Associate Software Engineer, Yellow.ai**  
-  *Jan 2022 - Mar 2023*  
-  - Built rock-solid software with Node.js, Python, and MongoDB, slashing system downtime by 15% – less time crying, more time flying!
-  - Bridged the back-end and front-end worlds like a digital architect.
-  - Wove together REST APIs like a master storyteller, making data dance and connectivity groove.
-  - Debugged like a ninja with Jest, Cypress, and JS debugger, cutting downtime!
-  - Ran the Agile race with flair, crossing the finish line with 95% on-time delivery 😎. 
+
+- **Software Engineer, Yellow.ai**  
+  *Jan 2022 - Jun 2023*  
+	•	Worked at Yellow.ai, the cool kid in the AI world, recognized in 11 Gartner Reports with 1100+ enterprise customers.
+	•	Built rock-solid customer relationships, driving a 20% spike in revenue and retention – because who doesn’t love a happy customer?
+	•	Led the charge on customer-centric features using Node.js, JavaScript, Python, and MongoDB, boosting satisfaction by 25%.
+	•	Mastered Git, Jira, Confluence, and Rocketlane, which led to a 15% bump in deliverable quality – efficiency, meet excellence.
+	•	Designed and rolled out asynchronous apps that made our systems 25% more efficient – multitasking just got a glow-up.
+	•	Connected back-end and front-end systems with conversational channels, driving a 10% increase in sales – cha-ching!
+	•	Built and integrated REST APIs, improving data flow with external systems by 25% – smooth operator, indeed.
+	•	Squashed bugs like a pro with Jest, Cypress, and JS debugger, cutting downtime by 30% – it’s all in a day’s work.
+	•	Juggled multiple projects using Agile, hitting a 95% on-time delivery rate – deadlines don’t stand a chance!
 
 - **Web Development Intern, Civil Cops**  
-  *Jun 2019*  
-  - Developed web applications using HTML, CSS, and MERN Stack.
-  - Improved page loading times by 25%.
+  *May 2019 - Jun 2019*  
+ • Modified legacy Javascript code to ES6 standards, enhancing code readability and maintainability, which resulted in improved performance and developer productivity.
+ • Implemented lazy loading for images and components, and enhanced caching strategies, achieving a 25% reduction in page loading times.
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavg27&show_icons=true&theme=radical)
@@ -40,13 +48,13 @@ Welcome to my corner of the coding cosmos! In this universe of endless lines of 
 ## 📚 Projects
 - **[minimaLINK](https://mnmlnk.netlify.app)**  
   *May 2024*  
-  - URL shortening service using Node.js and PostgreSQL, featuring URL shortening, redirection, and Base62 conversion.
-  - Elegant dark theme frontend with React and Material UI.
+ • URL shortening service using Express.js, PostgreSQL, JWT for authentication, bcrypt for password security, featuring user registration/login, unique URL generation and click tracking.
+ • Responsive frontend using React.js and Material UI, with AuthContext for authentication. Implemented custom styled components, clipboard integration, conditional rendering, form validation, and API integration.
 
 - **[GitSeek](https://github-search-app-0204.netlify.app)**  
   *Dec 2023*  
-  - GitHub User Search App created using MERN stack, enabling real-time search and intuitive user interaction.
-  - Implemented API throttling and debouncing, error handling.
+ • GitHub User Search App created using MERN stack, enabling real-time search and intuitive user interaction.
+ • Implemented API throttling and debouncing, error handling.
 
 ## 📫 Contact
 - **Email:** [raghavg2705@gmail.com](mailto:raghavg2705@gmail.com)
